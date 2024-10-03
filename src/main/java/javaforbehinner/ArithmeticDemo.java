@@ -30,5 +30,6 @@ public class ArithmeticDemo {
         System.out.println("The sum is = "+ sum);
         sum = num1 % num2;
         System.out.println("The sum is = "+ sum);
+        
     }
 }
