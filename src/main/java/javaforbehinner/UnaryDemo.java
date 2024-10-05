@@ -19,6 +19,8 @@ public class UnaryDemo {
         System.out.println(result);
         result = ++x;
         System.out.println(result);
+        result = x++;
+        System.out.println(result);
         result = --x;
         System.out.println(result);
     }
