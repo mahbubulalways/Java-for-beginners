@@ -1,0 +1,2 @@
+1. Palindrome Number => 121, 222, 131, 232
+2. Armstrong Number => summation of per digit cube is equal to the number  

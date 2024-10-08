@@ -1,4 +1,4 @@
-
+package javaforbehinner;
 import java.util.Scanner;
 
 /*

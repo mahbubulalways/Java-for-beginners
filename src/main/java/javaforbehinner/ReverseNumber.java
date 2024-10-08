@@ -24,7 +24,12 @@ public class ReverseNumber {
             temp = temp / 10;
 
         }
-        System.out.println("The Reverse Number is " + reverse);
+        if(num == reverse){
+        System.out.println("The is Palindrome Number and the reverse Number is " + reverse);
+        }else{
+            System.out.println("The  reverse Number is " + reverse);
+        }
+        
         input.close();
     }
 }
