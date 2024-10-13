@@ -23,7 +23,7 @@ public class PrimeNumber {
                     break;
                 }
             }
-            System.out.println(count);
+            // System.out.println(count);
             if (count == 0) {
                 System.out.println("This is Prime Number");
             } else {
