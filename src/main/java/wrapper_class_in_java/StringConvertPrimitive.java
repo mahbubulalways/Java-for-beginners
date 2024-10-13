@@ -17,6 +17,8 @@ public class StringConvertPrimitive {
         System.out.println(f);
         String g = "101";  
         double h = Double.parseDouble(g);
+        double i = Double.valueOf(g);
         System.out.println(h);
+        System.out.println(i);
     }
 }
