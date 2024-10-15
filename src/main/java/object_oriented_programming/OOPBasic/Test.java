@@ -26,5 +26,6 @@ public class Test {
         ReturningValue value = new ReturningValue();
         int result = value.square(5);
         System.out.println(result);
+        
     }
 }

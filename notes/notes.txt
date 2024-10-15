@@ -1,3 +1,4 @@
 1. Palindrome Number => 121, 222, 131, 232
 2. Armstrong Number => summation of per digit cube is equal to the number  
 3. Constructor => Constructor is a special type of method that is used to initialize the object
+4. Method =>  Methods are used to define behaviors for objects and It is a block of code that performs a specific task

@@ -1,0 +1,11 @@
+Constructor
+1. It initialized object
+2. It has no return type
+3. Its Name same to the class Name
+4. No need to call. 
+
+Method
+1. It expose the behavior of an object.
+1. It has return type , alt least void.
+2. It will be another name.
+3. Need to call.
