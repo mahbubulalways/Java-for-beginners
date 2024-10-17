@@ -33,7 +33,9 @@ public class Test {
          StaticMethod nonStatic = new StaticMethod(); // * Non-static method need to create object 
          nonStatic.displayOne();
          StaticMethod.displayTwo(); // * Static method no need to create object
-
-     
+          
+        //  StaticBlock staticBlock1 = new  StaticBlock();
+        //  staticBlock1.displayInfo();
+        StaticBlock.displayInfo();
     }
 }
