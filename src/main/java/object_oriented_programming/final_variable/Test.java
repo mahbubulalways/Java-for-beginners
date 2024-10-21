@@ -1,4 +1,4 @@
-package object_oriented_programming.final_keyword;
+package object_oriented_programming.final_variable;
 
 /**
  * Test
@@ -6,8 +6,7 @@ package object_oriented_programming.final_keyword;
 public class Test {
 
     public static void main(String[] args) {
-        University u = new University();
+        University u = new University(540000);
         u.displayInfo();
     }
-    
 }
